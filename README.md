@@ -22,8 +22,8 @@
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 )]()
 ### Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=dev-guif&show_icons=true&theme=radical)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-guif&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
 ### Linguagens que eu utilizo
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guif&langs_count=8)](https://github.com/dev-guif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-guif)](https://github.com/dev-guif)
