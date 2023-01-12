@@ -21,6 +21,8 @@
 )]()
 [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white
 )]()
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white
+)]()
 ### Stats
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-guif&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
